@@ -2,9 +2,6 @@
 <head>
   <style>
     body {
-      text-align: center;
-      background: url("/assets/anna-bg.png");
-      background-size: cover;
       background-position: center;
       background: black;
       color: white;
