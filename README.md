@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-  <title>Anna Dowlin</title>
   <style>
     body {
       text-align: center;
