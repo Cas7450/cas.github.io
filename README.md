@@ -1,5 +1,2 @@
 <!DOCTYPE html>
-<head>
-    body {
-      Hallo
-    }
+<p>hallo</p>
